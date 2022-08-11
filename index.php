@@ -1,5 +1,7 @@
 <?php 
 
 
-	echo" Segundo codigo  PHP  ;
+	echo "Segundo codigo  PHP " ;
+
+	echo "ola pedraaaa" ;
 ?>
